@@ -1,0 +1,40 @@
+/*GENERAL*/
+
+html
+{
+  margin:0;
+  height: 100vh;
+}
+
+body {
+   
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+
+
+.container.title {
+    width: 100%;
+    text-align: center;
+    color: blue;
+}
+
+#sticky-footer {
+    margin-top: auto;   
+}
+
+
+
+.container{
+    text-align: center;
+}
+
+.buttons{
+    text-align: center;
+}
+
+
+    
